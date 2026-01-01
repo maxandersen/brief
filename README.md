@@ -5,7 +5,7 @@ It includes a slash-command palette, local tool execution (e.g., live weather), 
 
 ![Brief screenshot](docs/assets/brief-screenshot-1.png)
 
-Built with [tui4j](https://github.com/williamcallahan/tui4j).
+Built with [tui4j](https://github.com/WilliamAGH/tui4j).
 
 Canonical repo: https://github.com/WilliamAGH/brief
 
